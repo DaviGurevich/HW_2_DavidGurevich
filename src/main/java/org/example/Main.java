@@ -9,6 +9,8 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.println("new branch text");
 
+        System.out.println("master text");
+
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
